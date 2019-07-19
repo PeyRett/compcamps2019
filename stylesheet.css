@@ -1,0 +1,204 @@
+body{
+    background-image: url("images/thM9VR1R1B.jpg");
+  font-family: 'Bahianita', cursive;
+}
+
+.nav{
+text-align: center;
+color: aqua;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.navbar{
+  color: aqua;
+  font-size: 10px;
+  list-style: none;
+  margin: 50px 580px;
+  border: 5px solid aqua;
+  padding: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Russo One', sans-serif;
+}
+
+.title{
+  font-size: 75px;
+  text-align: center;
+  color: aqua;
+  background-image: url("images/strange.gif");
+  margin:  50px 450px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+}
+
+.paragraph{
+  font-size: 40px;
+  color: aqua;
+  text-align: center;
+  text-decoration-style: solid;
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+  background-image: url("images/strange.gif");
+  margin:  70px 100px;
+}
+
+.navlink{
+  font-size: 60px;
+  text-align: center;
+  background-image: url("images/thWPDZ2DXK.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aqua;
+  font-family: 'Russo One', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: aqua;
+  font-size: 30px;
+  padding: 0 50px;
+}
+
+.img_me{
+  width: 1px;
+  display: block;
+  margin: 0 auto;
+}
+
+.helplink{
+  font-size: 40px;
+  color: aqua;
+  text-align: center;
+  text-decoration-style: solid;
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+  background-image: url("images/strange.gif");
+  margin:  50px 470px;
+}
+
+.atli{
+  text-align: center;
+  color: aqua;
+  background-image: url("images/thWPDZ2DXK.jpg");
+  margin:  50px 580px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+}
+
+.atli a{
+  color: #5AFFFF;
+}
+
+.gif{
+  border-color: aqua;
+  border-width: 5px;
+  border-style: solid;
+  display: block;
+  margin: 0 auto;
+}
+
+.title2{
+  font-size: 40px;
+  text-align: center;
+  color: aqua;
+  background-image: url("images/strange.gif");
+  margin:  50px 400px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+}
+
+.note{
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+
+.img_me2{
+  width:  1000px;
+  height: 400px;
+  display: block;
+  margin: 0 auto;
+  border-color: aqua;
+  border-width: 5px;
+  border-style: solid;
+}
+
+.helplink2{
+  font-size: 40px;
+  color: aqua;
+  text-align: center;
+  text-decoration-style: solid;
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+  background-image: url("images/strange.gif");
+  margin:  70px 550px;
+}
+
+.paragraph1{
+  color: aqua;
+  font-size: 40px;
+  text-align: center;
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+  background-image: url("images/thWPDZ2DXK.jpg");
+  margin:  70px 385px;
+}
+
+.navlink2{
+  font-size: 60px;
+  text-align: center;
+  background-image: url("images/thWPDZ2DXK.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aqua;
+  font-family: 'Russo One', sans-serif;
+  margin: 50px 580px;
+  border: 5px solid aqua;
+  padding: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  list-style-type: none;
+}
+
+.atom{
+  font-size: 40px;
+  color: aqua;
+  text-align: center;
+  text-decoration-style: solid;
+  margin:  70px 100px;
+}
+
+.paragraph2{
+  font-size: 40px;
+  color: aqua;
+  text-align: center;
+  text-decoration-style: solid;
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+  background-image: url("images/strange.gif");
+  margin:  70px 370px;
+}
+
+.paragraph3{
+  font-size: 40px;
+  color: aqua;
+  text-align: center;
+  text-decoration-style: solid;
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+  background-image: url("images/strange.gif");
+  margin:  70px 650px;
+}
