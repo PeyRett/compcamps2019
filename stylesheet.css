@@ -59,7 +59,7 @@ a{
   text-decoration: none;
   color: aqua;
   font-size: 30px;
-  padding: 0 50px;
+  text-align: center;
 }
 
 .img_me{
@@ -191,6 +191,13 @@ a{
   margin:  70px 370px;
 }
 
+.background2{
+  text-align: center;
+  text-decoration-style: solid;
+  background-repeat: repeat;
+  background-image: url("images/r19HOkQ.gif");
+}
+
 .paragraph3{
   font-size: 40px;
   color: aqua;
@@ -200,5 +207,4 @@ a{
   border-width: 5px;
   border-color: aqua;
   background-image: url("images/strange.gif");
-  margin:  70px 650px;
 }
